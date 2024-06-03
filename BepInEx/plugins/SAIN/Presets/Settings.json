@@ -1,0 +1,18 @@
+{
+  "SelectedPreset": "Default for 2-2-2-13",
+  "DefaultPreset": "3. Default",
+  "AdvancedBotConfigs": false,
+  "ConfigScaling": 1.0,
+  "GlobalDebugMode": false,
+  "ForceBotsToRunAround": false,
+  "DebugExternal": false,
+  "DrawDebugGizmos": false,
+  "DrawDebugLabels": false,
+  "CollectBotLayerBrainInfo": false,
+  "DebugDrawProjectionPoints": false,
+  "DebugEnablePathTester": false,
+  "DebugDrawSafePaths": false,
+  "DebugSearchGizmos": false,
+  "DebugMovementPlan": false,
+  "DebugHearing": false
+}

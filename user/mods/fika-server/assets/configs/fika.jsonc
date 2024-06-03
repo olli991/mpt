@@ -1,0 +1,14 @@
+{
+    "client": {
+        "useBtr": true,
+        "friendlyFire": true,
+        "dynamicVExfils": true,
+        "allowFreeCam": true,
+        "allowItemSending": true,
+        "forceSaveOnDeath": false
+    },
+    "server": {
+        "giftedItemsLoseFIR": true,
+        "launcherListAllProfiles": false
+    }
+}

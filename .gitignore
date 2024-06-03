@@ -1,0 +1,46 @@
+# git ls-files --others --exclude-from=.git/info/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in C, the following would be a good set of
+# exclude patterns (uncomment them if you want to use them):
+# *.[oa]
+# *~
+# sourced from https://github.com/IAMBUDE/mpt-client/blob/main/.gitignore, thank you!
+/*
+
+#Base files
+!.gitignore
+!README.md
+
+#Unneeded stuff
+**/.DS_Store
+**.log
+
+#Include BepInEx core
+!BepInEx
+BepInEx/*
+
+# BepInEx Plugins 
+!BepInEx/plugins
+
+# BepInEx config
+!BepInEx/config
+
+# BepInEx config ignore list
+# BepInEx/config/BepInEx.cfg
+# BepInEx/config/FOVFix.cfg
+# BepInEx/config/Tyfon.UIFixes.cfg
+# BepInEx/config/com.Amanda.Graphics.cfg
+# BepInEx/config/com.bepis.bepinex.configurationmanager.cfg
+BepInEx/config/xyz.drakia.botdebug.cfg
+
+# mod ignore list
+BepInEx/plugins/spt*
+BepInEx/plugins/DrakiaXYZ-BotDebug.dll
+user/mods/MPT.Updater.exe
+
+#Include User/Mods/
+!user
+user/*
+!user/Mods
+!user/cache
+

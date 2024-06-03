@@ -1,0 +1,18 @@
+{
+	"fulfilledAnyCanBeUpgraded" : false,
+	"questPriority" : 4,
+	"hideoutPriority" : 3,
+	"wishlistPriority" : 2,
+	"barterPriority" : 0,
+	"craftPriority" : 1,
+	"showFutureModulesLevels" : true,
+	"showBarter" : false,
+	"showCraft" : true,
+	"showFutureCraft" : true,
+	"needMoreColor" : [ 1,0.37255,0.37255 ], 
+	"fulfilledColor" : [ 0.30588,1,0.27843 ], 
+	"wishlistColor" : [ 0,0,1 ],
+	"barterColor" : [ 1,0,1 ],
+	"craftColor" : [ 0,1,1 ],
+	"includeFutureQuests" : true
+}

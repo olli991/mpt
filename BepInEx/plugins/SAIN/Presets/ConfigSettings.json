@@ -1,0 +1,19 @@
+{
+  "SelectedDefaultPreset": "hard",
+  "SelectedCustomPreset": "",
+  "DefaultPreset": "3. Default",
+  "AdvancedBotConfigs": false,
+  "ConfigScaling": 1.0,
+  "GlobalDebugMode": false,
+  "ForceBotsToRunAround": false,
+  "DebugExternal": false,
+  "DrawDebugGizmos": false,
+  "DrawDebugLabels": false,
+  "CollectBotLayerBrainInfo": false,
+  "DebugDrawProjectionPoints": false,
+  "DebugEnablePathTester": false,
+  "DebugDrawSafePaths": false,
+  "DebugSearchGizmos": false,
+  "DebugMovementPlan": false,
+  "DebugHearing": false
+}
